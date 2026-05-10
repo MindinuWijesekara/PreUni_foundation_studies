@@ -1,0 +1,6 @@
+Temp : 25.5 C - OK
+Temp : 26.1 C - OK
+Temp : 85.0 C - WARNING : Overheating
+Temp : 24.9 C - OK
+Temp : 92.3 C - WARNING : Critical
+Temp : 25.2 C - OK

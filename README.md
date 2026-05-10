@@ -4,5 +4,8 @@
 ---------------------------------------------------------------------------------------------------------------------
 ## Current folders
 * ### *Python Basics*
-##### - Defining and calling functions
-##### - Using loops and data processing
+##### - Defining and calling functions  ---------->  *basic_calculator.py*
+##### - Using loops and data processing  ------->  *ph_data_analyzer.py*
+##### - String methods  --------------------------> *protein_sequence_analyzer.py* 
+##### - File I/O and exception handling  --------> *sensor_log_analyzer.py*  _AND_  *atomic_weight_analyzer.py*
+##### - Using python dictionaries ---------------> *element_dictionary_lookup.py*

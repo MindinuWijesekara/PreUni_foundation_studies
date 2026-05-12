@@ -1,0 +1,6 @@
+Batch_A: Temp=25.5, Yield=88%, Formula=C6H12O6, Time=14:30
+Batch_B: Temp=27.2, Yield=75%, Formula=H2O, Time=15:45
+Batch_C: Temp=22.0, Yield=92%, Formula=CH4, Time=09:15
+Batch_D: Temp=25.5, Yield=81%, Formula=C2H5OH, Time=11:20
+Batch_E: Temp=30.1, Yield=60%, Formula=NaCl, Time=13:00
+Batch_F: Temp=33.4, Yield=47%, Formula=MgBr2, Time=21:53
